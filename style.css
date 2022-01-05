@@ -7,3 +7,36 @@ body{
     font-family: 'Teko', sans-serif;
     font-family: 'Ubuntu', sans-serif;
     }
+    .first-pera{
+        display: flex;
+        padding-left:3%;
+        background-repeat: no-repeat;
+        background-image: url(images/Abstract_Background_02-08.jpg);
+    }
+    .first-pera img{
+        width:500px;
+    }
+    #shorano{
+        margin-left: 3%;
+    }
+    #rong{
+        color: orange;
+    }
+    .second-pera{
+        display: flex;
+        margin-top:4%;
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-image: url(images/08_generated.jpg);
+    }
+    .second-pera img{
+        width: 500px;
+    }
+    #batom{
+        text-decoration: none;
+        background-image: linear-gradient(green,red);
+        padding:10px 15px;
+        border: 5px;
+        border-radius: 15px;
+        color:snow;
+    }
